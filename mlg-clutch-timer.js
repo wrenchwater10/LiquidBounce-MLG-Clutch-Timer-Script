@@ -15,7 +15,7 @@
 const script = registerScript({
     name: "MLG Clutch Timer",
     version: "1.1.0",
-    authors: ["Buffy"]
+    authors: ["wrenchwater10"]
 });
 
 /* Vanilla player physics, in blocks per tick. */
